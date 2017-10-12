@@ -1,0 +1,7 @@
+.simple-component :hover
+{
+  width: 500px;
+  height: 200px;
+  background-color: yellow;
+  box-shadow: 10px 10px;
+}
